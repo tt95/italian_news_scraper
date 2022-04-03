@@ -1,5 +1,10 @@
 # italian news scraper 
-- Funziona per i siti ansa.it, ilgiornale.it, lastampa.it, repubblica.it
+- Funziona per i siti 
+	- ansa.it 
+	- ilgiornale.it 
+	- lastampa.it
+	- corriere.it
+	- repubblica.it
 - convenzione date %Y-%m-%d
 
 
